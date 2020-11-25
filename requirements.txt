@@ -10,4 +10,4 @@ scipy==1.4.1              # via seaborn
 seaborn==0.10.1
 six==1.15.0               # via cycler, python-dateutil
 plotly==4.13.0
-pyodbc==4.0.30
+pyodbc
